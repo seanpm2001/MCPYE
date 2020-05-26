@@ -1,0 +1,34 @@
+%LangDoc: MC_BED% # Python edition
+//| Start
+^Div^ # Sets a divider between commands 
+/say @p "hello world"
+^Div^ #\\ writes 
+hello world
+#\\ # in chat
+/kill @e [type="vex"]
+^Div^
+/setblock coord: 0 1 0 "grass_block"
+^Div^
+/give @a "iron_sword" [durability: full]
+^Div^
+/gamerule (doDayLightCycle: true)
+^Div^
+/effect @a night_vision (3600 second, power: 0)
+^Div^
+/teleport @s [0,256,0]
+^Div^
+/tp @s [0,-40,0]
+^Div^
+/kill @a
+^Div^
+/clear @r
+^Div^
+/detonate [0,5,0] [range: 3] [power: 256] [destruction = true]
+^Div^
+#\\ Sets an explosion in this coordinae
+#\\
+#\\ File info
+File version: 1 (November 10th 2019)
+First version: 1 (November 10th 2019)
+#\\
+\\| End
