@@ -1,0 +1,68 @@
+ignore: TITLE_TEXT
+==================
+Randomozier range: 64
+0000000000000001: Open source!
+0000000000000002: Made in Python!
+0000000000000003: Also please try Minecraft
+0000000000000004: Skinny skins for the win!
+0000000000000005: Now runs in Firefox
+0000000000000006: 16 chunks of title text
+0000000000000007: Amazing
+0000000000000008: Terminal.py
+0000000000000009: Customizations... Customizations everywhere
+0000000000000010: We all love memes
+0000000000000011: Iron Melons
+0000000000000012: The teams been here since 2015
+0000000000000013: Wow
+0000000000000014: ...
+0000000000000015: How much dedicated RAM do I need for a Minecraft server?
+0000000000000016: Invalid syntax
+0000000000000017: Microsoft can't touch me anymore!
+0000000000000018: The best clone
+0000000000000019: Hours of fun
+0000000000000020: Hello world
+0000000000000021: Goodbye world
+0000000000000022: I am the creeper
+0000000000000023: No cup of Java needed
+0000000000000024: A new Java update is available do you want to install it now?
+0000000000000025: Crazy text
+0000000000000026: MoCk
+0000000000000027: Welcome back
+0000000000000028: Puzzling
+0000000000000029: Sbeve
+0000000000000030: Don't dig straight up!
+0000000000000031: Don't dig straight down!
+0000000000000032: Don't waste your diamonds on a hoe
+0000000000000033: Emerald hill zone
+0000000000000034: Oof
+0000000000000035: Chunky16
+0000000000000036: Chunky
+0000000000000037: The great war of the pillagers
+0000000000000038: Unneccesary title IDs
+0000000000000039: Childhood!
+0000000000000040: ssssssssssssssssssssss...
+0000000000000041: Let's sleep in the nether tonight
+0000000000000042: The meaning of life is 101010
+0000000000000043: Blast processing
+0000000000000044: Inspired by the greatest
+0000000000000045: Try to change TiText.txt
+0000000000000046: MINING AWAY
+0000000000000047: Subscribe to PewDiePie
+0000000000000048: TOO!!! MANY!!! EXCLAMATION!!! POINTS!!!!!!!!!!!
+0000000000000049: the quick brown fox jumps over the lazy dog
+0000000000000050: Who wore it better?
+0000000000000051: Remember to storm area 51 on September 20th 2019 at 3:00 am
+0000000000000052: Are you really in charge here?
+0000000000000053: Also try Terraria
+0000000000000054: Virtual Machines FTW!
+0000000000000055: Plant a tree today!
+0000000000000056: XP
+0000000000000057: What do you want to build today?
+0000000000000058: \|-_-|/
+0000000000000059:  |bob|
+0000000000000060:  /   \
+0000000000000061: You are 2' tall
+0000000000000062: Doctors hate him!
+0000000000000063: Made with love
+0000000000000064: Sound System 009 Notepad Windows XP
+===================
