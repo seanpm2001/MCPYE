@@ -1,0 +1,30 @@
+%LangDoc: MC_BED% # Bedrock edition
+//| Start
+^Div^ # Sets a divider between commands 
+/say @p hello world
+^Div^ #\\ writes 
+hello world
+#\\ # in chat
+/kill @e [type=vex]
+^Div^
+/setblock 0 1 0 grass
+^Div^
+/give @a iron_sword
+^Div^
+/gamerule doDayLightCycle true
+^Div^
+/effect @a night_vision 3600 0
+^Div^
+/teleport @s 0 256 0
+^Div^
+/tp @s 0 -40 0
+^Div^
+/kill @a
+^Div^
+/clear @r
+^Div^
+#\\ File info
+File version: 1 (November 10th 2019)
+First version: 1 (November 10th 2019)
+#\\
+\\| End
