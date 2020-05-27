@@ -43,8 +43,8 @@ As of 4:25 pm on May 26th 2020, I have added in all the files from my local repo
 
 # Current contributers
 
-1. [owner] Seanpm2001 - 123 commits (As of 5:02 pm, May 26th 2020)
-2. Channa-my - 0 commits (As of 5:02 pm, May 26th 2020)
+1. [owner] Seanpm2001 - 124 commits (As of 5:07 pm, May 26th 2020)
+2. Channa-my - 0 commits (As of 5:07 pm, May 26th 2020)
 
 # Rules
 
@@ -53,7 +53,19 @@ Do not modify version files.
 Files ending with V and a number are separate archived versions of a program. They are complete, and should not be modified.
 Always make sure to copy your changes to a new version file after you make each commit.
 
+# Other Commit rules:
+1. ¤ Don't modify files with a version number at the end of them
+2. ¤ Create a separate file for each revision
+3. ¤ No excessive unnecessary profanity in commits (only 1 unnecessary swear allowed)
+4. ¤ Program must be as light as possible with all features
+5. ¤ Source code must be documented
+6. ¤ Python files must begin with #start of script and end with #end of script (this might get deprecated)
+7. ¤ Program cannot mine personal data, or set trackers
+
 No other rules currently available
 -----------
 
+Readme version: 4 (May 26th 2020, 5:07 pm)
+-----------
 # End of ReadMe
+Blank space for compiler below this line:
