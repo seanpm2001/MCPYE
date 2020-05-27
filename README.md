@@ -43,8 +43,8 @@ As of 4:25 pm on May 26th 2020, I have added in all the files from my local repo
 
 # Current contributers
 
-1. [owner] Seanpm2001 - 124 commits (As of 5:07 pm, May 26th 2020)
-2. Channa-my - 0 commits (As of 5:07 pm, May 26th 2020)
+1. [owner] Seanpm2001 - 125 commits (As of 5:55 pm, May 26th 2020)
+2. Channa-my - 0 commits (As of 5:55 pm, May 26th 2020)
 
 # Rules
 
@@ -65,7 +65,17 @@ Always make sure to copy your changes to a new version file after you make each 
 No other rules currently available
 -----------
 
-Readme version: 4 (May 26th 2020, 5:07 pm)
+# About local repository
+_a local repository for this project has been in development since Wednesday, July 17th 2019. It has been moved to GitHub on May 25th 2020, where I can manage it better._
+**There are still some files and folders that need to be moved over**
+
+# Version history
+
+1. Version 0.0.1.0 [pre-release] - Marks the full conversion of all Python data from the offline local repository to the online GitHub repository. Still highly incomplete. **_released May 26th 2020_** [commit count: 124]
+2. Version 0.0.1.1 [pre-release] - coming soon [commit count: 125, 1 total commit for this release]
+3. Other future releases not yet listed
+
+Readme version: 5 (May 26th 2020, 5:55 pm)
 -----------
 # End of ReadMe
 Blank space for compiler below this line:
