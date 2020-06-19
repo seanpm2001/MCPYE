@@ -9,4 +9,4 @@
 
 # Current contributers:
 # seanpm2001
-# channa-my (adding in progress)
+# channa-my
