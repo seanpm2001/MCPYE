@@ -1,0 +1,1 @@
+This project hasn't been updated since June 2020. A lot has changed in Minecraft since then, and I have been having difficulty gathering new blocks, items, entities, and other features to add. This thread is a place to post feature requests. Note that the feature doesn't have to be from Minecraft Java edition or Bedrock edition, it can also be from a mod, or from a new idea.
