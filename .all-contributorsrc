@@ -16,6 +16,15 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "channa-my",
+      "name": "channa-my",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3336451?v=4",
+      "profile": "https://github.com/channa-my",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
