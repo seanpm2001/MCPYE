@@ -1,0 +1,52 @@
+
+----
+
+== Credits ==
+
+{{int:version-credits-summary}}
+
+MCPYE is a collaborative project released under the GNU General Public License v3. We would like to recognize the following names for their contribution to the product.
+
+<!-- This comment block and this file (excluding author names) was modified from MediaWiki/CREDITS -->
+
+== Maintainers ==
+
+<!-- BEGIN MAINTAINERS LIST !-->
+
+1. @seanpm2001 - Creator and primary maintainer of the MCPYE project
+
+2. @all-contributors[bot] - Keeps up with crediting contributors
+
+3. @channa-my - First external contributor,
+
+4. No other contributors as of 2022, Tuesday, March 22nd at 4:28 pm
+
+== Contributors ==
+
+<!-- BEGIN CONTRIBUTOR LIST -->
+
+1. @seanpm2001
+
+2. @all-contributors[bot] - Keeps up with crediting contributors
+
+3. @channa-my - First external contributor,
+
+4. @Struow - For raising the first external issue, regarding documentation and the functionality of compiled binary packages
+
+5. @python / @gvanrossum - For creating the Python programming language
+
+6. @mojang (For creating the game Minecraft)
+
+7. @GitHub (For GitHub, and for being the first host of this project)
+
+8. No other contributors as of 2022, Tuesday, March 22nd at 4:28 pm
+
+=== File info ===
+
+<b>File type:</b> <i>MediaWiki document (*.wiki)</i>
+
+<b>File version:</b> <i>1 (2022, Tuesday, March 22nd at 4:28 pm)</i>
+
+<b>Line count (including blank lines and compiler line):</b> <i>53</i>
+
+----
