@@ -1,0 +1,353 @@
+name: Bug Report
+description: File a bug report
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Unknown
+  - type: checkboxes
+    attributes:
+      label: Prerequisites
+      description: |
+        To rule out invalid issues, confirm and check each one of the checkboxes.
+      options:
+        - label: I verified that this is not an existing issue
+          required: true
+        - label: This is not a [question, poll, or discussion](https://github.com/seanpm2001/MCPYE/discussions/)
+          required: true
+        - label: I checked the [documentation](https://github.com/seanpm2001/MCPYE/tree/master/Docs/) to understand that the issue I report is not a normal behavior
+          required: true
+    
+  - type: checkboxes
+    attributes:
+      label: I tried to reproduce the issue when...
+      options:
+        - label: MCPYE was running and functional
+          required: true
+        - label: MCPYE had no plugins/mods installed
+          required: true
+        - label: MCPYE was a fresh install
+          required: false
+  - type: checkboxes
+    attributes:
+      label: I am running the following operating system (choose only one)
+      options:
+        - label: Android 4.0 (Ice Cream Sandwich)
+          required: false
+        - label: Android 4.1/4.2/4.3 (JellyBean)
+          required: false
+        - label: Android 4.4 (KitKat)
+          required: false
+        - label: Android 5.0/5.1 (Lollipop)
+          required: false
+        - label: Android 6.0/6.1 (Marshmallow)
+          required: false
+        - label: Android 7.0/7.1 (Nougat)
+          required: false
+        - label: Android 8.0/8.1 (Oreo)
+          required: false
+        - label: Android 9.0/9.1 (Pie)
+          required: false
+        - label: Android 10.0/10.1 (Q)
+          required: false
+        - label: Android 11.0/11.1 (R)
+          required: false
+        - label: Android 12.0/12.1 (S)
+          required: false
+        - label: CentOS 6
+          required: false
+        - label: CentOS 7
+          required: false
+        - label: CentOS 8
+          required: false
+        - label: CentOS 8 (stream)
+          required: false
+        - label: Fedora Linux 10
+          required: false
+        - label: Fedora Linux 11
+          required: false
+        - label: Fedora Linux 12
+          required: false
+        - label: Fedora Linux 13
+          required: false
+        - label: Fedora Linux 14
+          required: false
+        - label: Fedora Linux 15
+          required: false
+        - label: Fedora Linux 16
+          required: false
+        - label: Fedora Linux 17
+          required: false
+        - label: Fedora Linux 18
+          required: false
+        - label: Fedora Linux 19
+          required: false
+        - label: Fedora Linux 20
+          required: false
+        - label: Fedora Linux 21
+          required: false
+        - label: Fedora Linux 22
+          required: false
+        - label: Fedora Linux 23
+          required: false
+        - label: Fedora Linux 24
+          required: false
+        - label: Fedora Linux 25
+          required: false
+        - label: Fedora Linux 26
+          required: false
+        - label: Fedora Linux 27
+          required: false
+        - label: Fedora Linux 28
+          required: false
+        - label: Fedora Linux 29
+          required: false
+        - label: Fedora Linux 30
+          required: false
+        - label: Fedora Linux 31
+          required: false
+        - label: Fedora Linux 32
+          required: false
+        - label: Fedora Linux 33
+          required: false
+        - label: Fedora Linux 34
+          required: false
+        - label: Fedora Linux 35
+          required: false
+        - label: Fedora Linux 36
+          required: false
+        - label: iPhoneOS 2
+          required: false
+        - label: iPhoneOS 3
+          required: false
+        - label: iPadOS 13
+          required: false
+        - label: iPadOS 14
+          required: false
+        - label: iPadOS 15
+          required: false
+        - label: iOS 4
+          required: false
+        - label: iOS 5
+          required: false
+        - label: iOS 6
+          required: false
+        - label: iOS 7
+          required: false
+        - label: iOS 8
+          required: false
+        - label: iOS 9
+          required: false
+        - label: iOS 10
+          required: false
+        - label: iOS 11
+          required: false
+        - label: iOS 12
+          required: false
+        - label: iOS 13
+          required: false
+        - label: iOS 14
+          required: false
+        - label: iOS 15
+          required: false
+        - label: Mac OS X 10.0 (Cheetah)
+          required: false
+        - label: Mac OS X 10.1 (Puma)
+          required: false
+        - label: Mac OS X 10.2 (Jaguar)
+          required: false
+        - label: Mac OS X 10.3 (Panther)
+          required: false
+        - label: Mac OS X 10.4 (Tiger)
+          required: false
+        - label: Mac OS X 10.5 (Leopard)
+          required: false
+        - label: Mac OS X 10.6 (Snow Leopard)
+          required: false
+        - label: OS X 10.7 (Lion)
+          required: false
+        - label: OS X 10.8 (Mountain Lion)
+          required: false
+        - label: OS X 10.9 (Mavericks)
+          required: false
+        - label: OS X 10.10 (Yosemite)
+          required: false
+        - label: OS X 10.11 (El Capitan)
+          required: false
+        - label: MacOS 10.12 (Sierra)
+          required: false
+        - label: MacOS 10.13 (High Sierra)
+          required: false
+        - label: MacOS 10.14 (Mojave)
+          required: false
+        - label: MacOS 10.15 (Catalina)
+          required: false
+        - label: MacOS 11.x (Big Sur)
+          required: false
+        - label: MacOS 12.x (Monterey)
+          required: false
+        - label: Ubuntu 10.04
+          required: false
+        - label: Ubuntu 10.10
+          required: false
+        - label: Ubuntu 11.04
+          required: false
+        - label: Ubuntu 11.10
+          required: false
+        - label: Ubuntu 12.04
+          required: false
+        - label: Ubuntu 12.10
+          required: false
+        - label: Ubuntu 13.04
+          required: false
+        - label: Ubuntu 13.10
+          required: false
+        - label: Ubuntu 14.04
+          required: false
+        - label: Ubuntu 14.10
+          required: false
+        - label: Ubuntu 15.04
+          required: false
+        - label: Ubuntu 15.10
+          required: false
+        - label: Ubuntu 16.04
+          required: false
+        - label: Ubuntu 16.10
+          required: false
+        - label: Ubuntu 17.04
+          required: false
+        - label: Ubuntu 17.10
+          required: false
+        - label: Ubuntu 18.04
+          required: false
+        - label: Ubuntu 18.10
+          required: false
+        - label: Ubuntu 19.04
+          required: false
+        - label: Ubuntu 19.10
+          required: false
+        - label: Ubuntu 20.04
+          required: false
+        - label: Ubuntu 20.10
+          required: false
+        - label: Ubuntu 21.04
+          required: false
+        - label: Ubuntu 21.10
+          required: false
+        - label: Ubuntu 22.04
+          required: false
+        - label: Ubuntu 22.10
+          required: false      
+        - label: Windows XP (no service pack)
+          required: false
+        - label: Windows XP (with service pack 1)
+          required: false
+        - label: Windows XP (with service pack 2)
+          required: false
+        - label: Windows XP (with service pack 3)
+          required: false
+        - label: Windows Vista (no service pack)
+          required: false
+        - label: Windows Vista (with service pack 1)
+          required: false
+        - label: Windows Vista (with service pack 2)
+          required: false
+        - label: Windows 7 (no service pack)
+          required: false
+        - label: Windows 7 (with service pack 1)
+          required: false
+        - label: Windows 8
+          required: false
+        - label: Windows 8.1
+          required: false
+        - label: Windows 10
+          required: false
+        - label: Windows 11 (MCPYE currently does not support Windows 11)
+          required: false
+  - type: checkboxes
+    attributes:
+      label: My processor type is (choose only one)
+      options:
+        - label: AMD (32 bit)
+          required: false
+        - label: AMD (64 bit)
+          required: false
+        - label: AMD (128 bit)
+          required: false
+        - label: Intel (32 bit)
+          required: false
+        - label: Intel (64 bit)
+          required: false
+        - label: Intel (128 bit)
+          required: false
+        - label: ARM (32 bit)
+          required: false
+        - label: ARM (64 bit)
+          required: false
+        - label: ARM (128 bit)
+          required: false
+        - label: PowerPC (32 bit)
+          required: false
+  - type: checkboxes
+    attributes:
+      label: I obtained MCPYE from...
+      options:
+        - label: This GitHub repository
+          required: true
+  - type: checkboxes
+    attributes:
+      label: I am running MCPYE in a virtual machine...
+      options:
+        - label: Yes (with Oracle VM VirtualBox)
+          required: false
+        - label: Yes (with VMWare)
+          required: false
+        - label: Yes (with Hyper-V)
+          required: false
+        - label: Yes (with Qemu)
+          required: false
+        - label: Yes (with another virtual machine option that isn't listed)
+          required: false
+        - label: No (I am running it on my host computer)
+          required: false
+  - type: textarea
+    attributes:
+      label: Description
+      description: Description of the bug or feature
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Steps to Reproduce
+      placeholder: |
+        1. [First Step]
+        2. [Second Step]
+        3. [and so on...]
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: What you expected to happen
+    validations:
+      required: true
+
+  - type: textarea
+    attributes:
+      label: Actual behavior
+      description: What actually happened
+    validations:
+      required: true  
+
+  - type: input
+    attributes:
+      label: MCPYE version
+    validations:
+      required: true
+
+# File info
+# File type: GitHub bug report issue template (*.yml)
+# File version: 1 (2022, Tuesday, May 17th at 6:23 pm PST)
+# Line count (including blank lines and compiler line): 354
