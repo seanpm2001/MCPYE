@@ -1,0 +1,1 @@
+It is still in a very basic form. It is not ready yet. The EXE file is just there for when I get the game into a working state. The same goes for the other setup files. This game is still highly incomplete.
