@@ -1,0 +1,22 @@
+blank_issues_enabled: false
+contact_links:
+  - name: The game won't run/can't install
+    url: https://github.com/seanpm2001/MCPYE/tree/master/Docs/Installation/
+    about: This question will be ignored if asked. Please read the docs.
+# - name: Questions and support
+# url: 
+# about: blank
+# name: Untitled
+# url: https://example.com/
+# about: blank
+# name: Untitled 2
+# url: https://example.com/
+# about: blank
+# name: Untitled 3
+# url: https://example.com/
+# about: blank
+
+# File info
+# File version: 1 (2022, Tuesday, May 17th at 5:43 pm PST)
+# File type: GitHub issue template config file (*.yml)
+# Line count (including blank lines and compiler line): 23
