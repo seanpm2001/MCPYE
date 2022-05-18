@@ -1,6 +1,6 @@
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ***
 
@@ -707,6 +707,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/channa-my"><img src="https://avatars.githubusercontent.com/u/3336451?v=4?s=100" width="100px;" alt=""/><br /><sub><b>channa-my</b></sub></a><br /><a href="https://github.com/seanpm2001/MCPYE/commits?author=channa-my" title="Documentation">📖</a></td>
     <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="https://github.com/seanpm2001/MCPYE/commits?author=all-contributors" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Struow"><img src="https://avatars.githubusercontent.com/u/61907178?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Struow</b></sub></a><br /><a href="https://github.com/seanpm2001/MCPYE/issues?q=author%3Astruow" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://github.com/Tim79000"><img src="https://avatars.githubusercontent.com/u/100736284?v=4?s=100" width="100px;" alt=""/><br /><sub><b>tim79000</b></sub></a><br /><a href="https://github.com/seanpm2001/MCPYE/issues?q=author%3Atim79000" title="Bug reports">🐛</a></td>
   </tr>
 </table>
 
