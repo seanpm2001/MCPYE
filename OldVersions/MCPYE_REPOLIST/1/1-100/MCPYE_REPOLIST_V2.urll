@@ -1,0 +1,96 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification
+//// FileName: MCPYE_REPOLIST.urll
+//// A list of all MCPYE project repositories by @seanpm2001
+//// As of 2025, Wednesday, September 17th
+
+//// MCPYE main (1)
+
+https://github.com/seanpm2001/MCPYE
+
+//// MCPYE core documentation (1)
+
+https://github.com/seanpm2001/MCPYE_Docs
+
+//// MCPYE GitHub Pages website archive (1)
+
+https://github.com/seanpm2001/ARCHIVE_MCPYE.github.io
+
+//// MCPYE command language (1)
+
+https://github.com/seanpm2001/MCPYE_CommandLanguage
+
+//// MCPYE Ports (2)
+
+https://github.com/seanpm2001/MCPYE-Snap //// (former fork)
+https://github.com/seanpm2001/ARCHIVE_MCPYE-Snap
+
+//// MCPYE Wiki (1)
+
+https://github.com/seanpm2001/MCPYE_Wiki_2021
+
+//// MCPYE DenizenScript (2)
+
+https://github.com/seanpm2001/MCPYE_DenizenScript
+https://github.com/seanpm2001/MCPYE_DenizenScript_Docs
+
+//// MCPYE ZenScript (2)
+
+https://github.com/seanpm2001/MCPYE_ZenScript
+https://github.com/seanpm2001/MCPYE_ZenScript_Docs
+
+//// MCPYE mcfunction (2)
+
+https://github.com/seanpm2001/MCPYE_mcfunction
+https://github.com/seanpm2001/MCPYE_mcfunction_Docs
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (MCPYE): 13
+//// 1+1+1+1+2+1+2+2+2=13
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// See also (6)
+
+//// SNU implementation of MCPYE (the original) (1)
+
+https://github.com/seanpm2001/SNU_3D_Minecraft_Python_Edition_Alpha
+
+//// Test worlds
+
+///// MCPYE_BEDROCK_TEST1 (1)
+
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_MCPYE_BEDROCK_TEST1
+
+//// Learn MCPYE Command Language (1)
+
+https://github.com/seanpm2001/Learn-MCPYE-Command-Language
+
+//// SNU 2D ProgrammingTools IDE for MCPYE Command Language (1)
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MCPYE-Command-Language
+
+//// Bliss Browser MCPYE Command Language browser support (1)
+
+https://github.com/seanpm2001/Bliss_Browser_MCPYECL
+
+//// Information on Seanpm2001 and Minecraft (1)
+
+https://github.com/seanpm2001/Seanpm2001-Minecraft
+
+//// ----------------------------------------------------- \\\\
+//// Repo count (See also): 6
+//// 1+1+1+1+1+1=6
+//// ----------------------------------------------------- \\\\
+//// Total repo count: 19
+//// 13+6=19
+//// ----------------------------------------------------- \\\\
+
+//// ----------------------------------------------------- \\\\
+//// File info
+//// File type: URLL v3 list file (*.urll)
+//// File version: 2 (2025, Wednesday, September 17th at 05:36 pm PST)
+//// Line count (including blank lines and compiler line): 97
+//// ----------------------------------------------------- \\\\
+
+//// End of file
